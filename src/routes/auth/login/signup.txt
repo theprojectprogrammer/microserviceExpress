@@ -1,0 +1,23 @@
+API DEV URL: 
+API QA URL:
+
+HTTP Method: POST
+HTTP Headers: content-type: application/json
+
+req body 
+
+{
+    
+}
+
+success response 
+
+{
+
+}
+
+error response 
+
+{
+    
+}
