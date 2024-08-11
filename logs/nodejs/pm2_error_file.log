@@ -1,0 +1,11 @@
+2024-08-11 13:13 +05:30: TypeError: res.sends is not a function
+2024-08-11 13:13 +05:30:     at C:\Users\2048773\OneDrive - Cognizant\Desktop\My Learning\microserviceWithExpress\src\app.js:6:7
+2024-08-11 13:13 +05:30:     at Layer.handle [as handle_request] (C:\Users\2048773\OneDrive - Cognizant\Desktop\My Learning\microserviceWithExpress\node_modules\express\lib\router\layer.js:95:5)
+2024-08-11 13:13 +05:30:     at next (C:\Users\2048773\OneDrive - Cognizant\Desktop\My Learning\microserviceWithExpress\node_modules\express\lib\router\route.js:149:13)
+2024-08-11 13:13 +05:30:     at Route.dispatch (C:\Users\2048773\OneDrive - Cognizant\Desktop\My Learning\microserviceWithExpress\node_modules\express\lib\router\route.js:119:3)
+2024-08-11 13:13 +05:30:     at Layer.handle [as handle_request] (C:\Users\2048773\OneDrive - Cognizant\Desktop\My Learning\microserviceWithExpress\node_modules\express\lib\router\layer.js:95:5)
+2024-08-11 13:13 +05:30:     at C:\Users\2048773\OneDrive - Cognizant\Desktop\My Learning\microserviceWithExpress\node_modules\express\lib\router\index.js:284:15
+2024-08-11 13:13 +05:30:     at Function.process_params (C:\Users\2048773\OneDrive - Cognizant\Desktop\My Learning\microserviceWithExpress\node_modules\express\lib\router\index.js:346:12)
+2024-08-11 13:13 +05:30:     at next (C:\Users\2048773\OneDrive - Cognizant\Desktop\My Learning\microserviceWithExpress\node_modules\express\lib\router\index.js:280:10)
+2024-08-11 13:13 +05:30:     at expressInit (C:\Users\2048773\OneDrive - Cognizant\Desktop\My Learning\microserviceWithExpress\node_modules\express\lib\middleware\init.js:40:5)
+2024-08-11 13:13 +05:30:     at Layer.handle [as handle_request] (C:\Users\2048773\OneDrive - Cognizant\Desktop\My Learning\microserviceWithExpress\node_modules\express\lib\router\layer.js:95:5)
