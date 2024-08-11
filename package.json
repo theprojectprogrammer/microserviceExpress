@@ -13,6 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
-    "pm2": "^5.4.2"
+    "express-http-context": "^1.2.4",
+    "pm2": "^5.4.2",
+    "winston": "^3.14.1"
   }
 }
