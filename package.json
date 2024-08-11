@@ -1,0 +1,14 @@
+{
+  "name": "microservicewithexpress",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000i\u0000c\u0000r\u0000o\u0000s\u0000e\u0000r\u0000v\u0000i\u0000c\u0000e\u0000W\u0000i\u0000t\u0000h\u0000E\u0000x\u0000p\u0000r\u0000e\u0000s\u0000s\u0000\r\u0000 \u0000g\u0000h\u0000p\u0000_\u0000u\u0000y\u0000X\u0000A\u0000v\u0000T\u00008\u0000Z\u0000W\u0000q\u00006\u0000G\u00008\u0000y\u0000L\u0000i\u0000Y\u00001\u0000D\u00003\u0000Z\u00004\u00000\u0000K\u0000a\u0000c\u0000q\u0000g\u0000j\u0000R\u00000\u0000h\u0000D\u00000\u0000v\u0000C\u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
